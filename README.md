@@ -33,46 +33,13 @@ Demo Video
 
 ## Watch the project demo:
 
-assets/demo.mp4
+See the project in action:
 
-
+[Demo Video](assets/demo.mp4)
 
 ## Architecture
 
-
-
-
-### Workflow
-
-YouTube Video / Transcript
-
-↓
-
-Transcript Processing
-
-↓
-
-Chunking
-
-↓
-
-OpenAI Embeddings
-
-↓
-
-ChromaDB Vector Store
-
-↓
-
-Retriever
-
-↓
-
-GPT-4o-mini
-
-↓
-
-Learn | Video Roadmap | Study Pack | Quiz
+![Architecture](assets/architecture.png)
 
 ## Tech Stack
 Python
