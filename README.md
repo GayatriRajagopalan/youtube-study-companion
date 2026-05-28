@@ -31,11 +31,6 @@ Interactive Gradio interface
 
 Demo Video
 
-## Watch the project demo:
-
-See the project in action:
-
-[Demo Video](assets/demo.mp4)
 
 ## Architecture
 
