@@ -42,11 +42,17 @@ See the project in action:
 ![Architecture](assets/architecture.png)
 
 ## Tech Stack
+
 Python
+
 OpenAI API
+
 ChromaDB
+
 Gradio
+
 YouTube Transcript API
+
 Pydantic
 
 ## Project Structure
