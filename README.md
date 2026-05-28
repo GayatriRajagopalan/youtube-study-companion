@@ -1,29 +1,41 @@
 # youtube-study-companion
 A RAG-powered learning assistant that transforms long YouTube videos into searchable learning resources.
 
+## Live Demo
+
+### Hugging Face Space:
+
+[Try the application on Hugging Face](https://huggingface.co/spaces/GayatriRajagopalan/youtube-study-companion)
+
+
 The application extracts video transcripts, builds a vector database using OpenAI embeddings and ChromaDB, and allows users to explore content through question answering, topic roadmaps, study packs, and quizzes.
 
 ## Features
 YouTube transcript extraction
+
 Transcript paste fallback for cloud-hosted deployments
+
 Semantic search using OpenAI embeddings
+
 ChromaDB vector database
+
 RAG-based question answering
+
 Video roadmap generation
+
 Study pack generation
+
 Quiz generation
+
 Interactive Gradio interface
+
 Demo Video
 
 ## Watch the project demo:
 
 assets/demo.mp4
 
-## Live Demo
 
-### Hugging Face Space:
-
-<YOUR_HUGGING_FACE_SPACE_URL>
 
 ## Architecture
 
