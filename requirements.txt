@@ -1,0 +1,6 @@
+openai
+chromadb
+gradio
+youtube-transcript-api
+pydantic
+python-dotenv
